@@ -1,2 +1,2 @@
 # AI-Volume-controller
-Everything is inside read me
+this code will find ypu hand and you can control the volume
